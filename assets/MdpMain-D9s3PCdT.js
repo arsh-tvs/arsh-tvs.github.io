@@ -1,0 +1,1 @@
+import{R as t,j as e}from"./index-CMRZlNq0.js";class n extends t.Component{render(){return e.jsxs("div",{children:[e.jsx("h2",{children:"MDP Main Page"}),e.jsx("div",{children:"1. for overriding the BASE_DOMAIN :  in localStorage with key `BASE_DOMAIN`, eg : `http://localhost:8080`, or `https://uat-cmnsvc-ingress.tvsmotor.net`"}),e.jsx("br",{})]})}}export{n as default};
